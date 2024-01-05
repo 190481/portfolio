@@ -1,0 +1,12 @@
+/* External CSS */ 
+#dci-link {
+    text-decoration: none; 
+    
+}
+body {
+    background-color: aliceblue;
+}
+#skill-list{
+    /* remove the bullets */
+    list-style-type: none;
+}
